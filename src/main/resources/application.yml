@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: github-challenge
+
+  server:
+    netty:
+      log-level: INFO
